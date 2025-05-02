@@ -1,0 +1,5 @@
+-- https://discord.gg/9xWtQczb
+
+shared.LoaderTitle = " Đăng Ký Kênh Thầy Giáo Bun";
+shared.LoaderkeyFrames = {
+[1] = {
